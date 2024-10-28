@@ -1,3 +1,4 @@
+//https://www.linkedin.com/posts/nikolai-kutiavin_rust-cpp-cpp-activity-7256228879525113856-rKN9/?utm_source=share&utm_medium=member_desktop
 
 // Enable safety feature 
 #feature on safety 
