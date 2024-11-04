@@ -4,6 +4,8 @@
 #include <syncstream>
 #include <thread>
 
+// only c++ 20
+
 // https://www.linkedin.com/posts/nikolai-kutiavin_cpp-posix-signals-activity-7258749787724771328-k9fl/?utm_source=share&utm_medium=member_desktop
 
 // Use template parameter in order to inherit one of the 'std::thread' or
